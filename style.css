@@ -235,6 +235,8 @@ h2{
     .social{
         display:flex;
         flex-direction:column;
+        margin-bottom: 40px;
+
     }
    
 }
