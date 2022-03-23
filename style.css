@@ -228,3 +228,13 @@ h2{
 #linkedin{
     color: rgb(55, 209, 230);
 }
+
+@media only screen and (max-width:600px)
+{
+    
+    .social{
+        display:flex;
+        flex-direction:column;
+    }
+   
+}
